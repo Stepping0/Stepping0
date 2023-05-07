@@ -45,6 +45,7 @@
   </a> 
 </p>
 
+<h3 align="left">My GitHub Stats:</h3>
 <p style="color:black;"><img align="left" style="color:black;" src="https://github-readme-stats.vercel.app/api/top-langs?username=stepping0&show_icons=true&locale=en&layout=compact" alt="stepping0" /></p>
 
 <p style="color:black;">&nbsp;<img align="center" style="color:black;" src="https://github-readme-stats.vercel.app/api?username=stepping0&show_icons=true&locale=en" alt="stepping0" /></p>
