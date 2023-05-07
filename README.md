@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Şule Betül BUDAK</h1>
-<h3 align="right">Computer Sciene Student</h3>
+<h3 align="left">Computer Sciene Student</h3>
 <img align="right" alt="coding" width350" src="https://media.tenor.com/Bpv9wTLKMskAAAAS/computer-nerds.gif">
 
 
