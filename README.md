@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Bpv9wTLKMskAAAAS/computer-nerds.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stepping0&label=Profile%20views&color=0e75b6&style=flat" alt="stepping0" /> </p>
 
 - 🌱 I’m currently learning **C**
 
